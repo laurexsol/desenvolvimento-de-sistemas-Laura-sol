@@ -1,3 +1,3 @@
-for i in range(1,6):
-    if i ==3:
-        print("número 3")
+for i in range(3):
+    nome=input("Digite um nome:")
+    print(nome) 
